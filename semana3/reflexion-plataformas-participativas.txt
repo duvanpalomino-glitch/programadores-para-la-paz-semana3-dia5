@@ -1,8 +1,10 @@
 Reflexión sobre plataformas participativas – Semana 3 Día 5
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:hailer duvan julio palomino
+
+Fecha: 01/06/2026
+
+Nombre de la rama:duvan_palomino
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -18,4 +20,9 @@ En tu respuesta menciona al menos dos de estas ideas:
 - transparencia
 - responsabilidad digital
 
-Respuesta:
+Respuesta:es importante que una plataforma deje consultar su informacion ya que
+con la informacion la comunidad puede contextaulizarla y dar prouestas o mensajes
+con sentido alguno, o con mucha mayor claridad y se le puedan entender las inquitudes
+del usuario, ademas una pagina que deje enviar respuestas activa la participacion
+ciudadana ya que los usuarios puede proponer sus ideas y ser escuchado para poder
+solucionar problemas, y la pagina web mejore. 

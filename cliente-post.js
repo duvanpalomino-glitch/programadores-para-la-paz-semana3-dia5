@@ -32,5 +32,6 @@ solicitud.on("error", (error) => {
   console.log("Detalle del error:", error.message)
 })
 
+
 solicitud.write(datos)
 solicitud.end()

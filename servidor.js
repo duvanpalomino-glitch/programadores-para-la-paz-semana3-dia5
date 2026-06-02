@@ -42,6 +42,7 @@ const servidor = http.createServer((request, response) => {
   response.end()
 })
 
+
 servidor.listen(puerto, () => {
   console.log("Servidor funcionando en http://localhost:3000")
   console.log("Puedes abrir http://localhost:3000 en el navegador.")
